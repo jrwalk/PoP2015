@@ -3,7 +3,16 @@
 \usepackage{amssymb,amsmath,amsfonts}
 \usepackage{graphicx}
 
-\graphicspath{{./graphics/}}
+\newcommand{\eg}{\emph{e.g., }}
+\newcommand{\ie}{\emph{i.e., }}
+\newcommand{\etal}{\emph{et al.}}
+
+% remove these for final publication 
+\usepackage{color} 
+\newcommand{\note}[1]{\textcolor{red}{#1}}
+\newcommand{\gnote}[1]{\marginpar{\textcolor{red}{\scriptsize{#1}}}}
+
+\graphicspath{{./graphics/}{./pdfgraphics/}}  % remove pdfgraphics path for final publication!
 
 \begin{document}
 
@@ -43,7 +52,7 @@
 \date{\today}
 
 \begin{abstract}
-I-mode is a novel high-confinement tokamak regime characterized by H-mode-like enhanced energy confinement and the formation of a strong temperature pedestal, without the accompanying density pedestal or enhanced particle confinement, maintaining an L-mode-like density profile.  I-mode exhibits a number of desirable properties for a reactor regime, including a lack of strong degradation of energy confinement with heating power and apparent naturally-occurring suppression of large ELMs, avoiding the need for externally-applied ELM suppression.  However, under certain conditions (particularly, reduced toroidal field) small, intermittent ELM-like events are seen, although these cases are modeled to be stable to the peeling-ballooning MHD instability associated with the ELM trigger, as is typical of I-mode pedestals.
+I-mode is a novel high-confinement tokamak regime characterized by H-mode-like enhanced energy confinement and the formation of a strong temperature pedestal, without the accompanying density pedestal or enhanced particle confinement, maintaining an L-mode-like density profile.  I-mode exhibits a number of desirable properties for a reactor regime, including a lack of strong degradation of energy confinement with heating power and apparent naturally-occurring suppression of large ELMs, avoiding the need for externally-applied ELM suppression.  However, under certain conditions (particularly, reduced toroidal field) small, intermittent ELM-like events are seen, although these cases are modeled to be stable to the peeling-ballooning MHD instability associated with the ELM trigger, as is typical of I-mode pedestals.  We examine these events in detail to better characterize the edge stability behavior in I-mode.  The majority of observed ELM candidates are observed to be synchronized with the sawtooth heat pulse reaching the pedestal, which measurably perturbs the temperature pedestal.  However, this perturbation appears to be insufficient to reach the peeling-ballooning stability boundary; moreover, the ELM candidate does not include a ``crash'' in the pedestal temperature or stored energy.  \note{precursor fluctuations?  include Ahmed?  Ref divertor heat flux measurements?}  In short, these events do not appear to be true instability-driven ELMs, but rather are benign $H_\alpha$ spikes driven by the sawtooth heat pulse.  A minority of the ELM candidates in I-mode do include the characteristic temperature crash associated with an ELM, and are not necessarily sawtooth-triggered -- however, these events are isolated, and the stationary pedestal structure in these I-modes is also modeled to be stable to the ELM trigger, indicating that transient events in the pedestal drive these ELMs, rather than an inherent instability of the pedestal.
 \end{abstract}
 
 \pacs{52.55.Fa, 52.55.Tn, 52.35.Py, 52.25.Fi, 52.40.Hf}
@@ -60,6 +69,9 @@ I-mode is a novel high-confinement tokamak regime characterized by H-mode-like e
  Experimental work on Alcator C-Mod is supported by US DOE agreement DE-FC02-99ER54512. Theory work at General Atomics is supported by US DOE agreement DE-FG02-99ER54309.  The authors also wish to acknowledge the efforts of the Alcator C-Mod group for supporting the experiments reported here.
 \end{acknowledgments}
 
+% remove \bibliography call, paste in aux file(?)
+% actually, peerx-press says they accept bib files now!
+% construct proper bib file once citations are all put together
 \bibliographystyle{aipnum4-1}
 \bibliography{jrwalk_references}
 
