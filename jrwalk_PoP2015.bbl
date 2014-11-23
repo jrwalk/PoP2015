@@ -6,7 +6,7 @@
 %Control: page (0) single
 %Control: year (1) truncated
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{0}%
+\begin{thebibliography}{17}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -50,4 +50,461 @@
 \providecommand \BibitemShut  [1]{\csname bibitem#1\endcsname}%
 \let\auto@bib@innerbib\@empty
 %</preamble>
+\bibitem [{\citenamefont {Wagner}\ \emph {et~al.}(1982)\citenamefont {Wagner},
+  \citenamefont {Becker}, \citenamefont {Behringer}, \citenamefont {Campbell},
+  \citenamefont {Eberhagen}, \citenamefont {Engelhardt}, \citenamefont
+  {Fussmann}, \citenamefont {Gehre}, \citenamefont {Gernhardt}, \citenamefont
+  {Gierke}, \citenamefont {Haas}, \citenamefont {Huang}, \citenamefont
+  {Karger}, \citenamefont {Keilhacker}, \citenamefont {Kl\"uber}, \citenamefont
+  {Kornherr}, \citenamefont {Lackner}, \citenamefont {Lisitano}, \citenamefont
+  {Lister}, \citenamefont {Mayer}, \citenamefont {Meisel}, \citenamefont
+  {M\"uller}, \citenamefont {Murmann}, \citenamefont {Niedermeyer},
+  \citenamefont {Poschenrieder}, \citenamefont {Rapp}, \citenamefont {R\"ohr},
+  \citenamefont {Schneider}, \citenamefont {Siller}, \citenamefont {Speth},
+  \citenamefont {St\"abler}, \citenamefont {Steuer}, \citenamefont {Venus},
+  \citenamefont {Vollmer},\ and\ \citenamefont {Y\"u}}]{Wagner1982}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {F.}~\bibnamefont
+  {Wagner}}, \bibinfo {author} {\bibfnamefont {G.}~\bibnamefont {Becker}},
+  \bibinfo {author} {\bibfnamefont {K.}~\bibnamefont {Behringer}}, \bibinfo
+  {author} {\bibfnamefont {D.}~\bibnamefont {Campbell}}, \bibinfo {author}
+  {\bibfnamefont {A.}~\bibnamefont {Eberhagen}}, \bibinfo {author}
+  {\bibfnamefont {W.}~\bibnamefont {Engelhardt}}, \bibinfo {author}
+  {\bibfnamefont {G.}~\bibnamefont {Fussmann}}, \bibinfo {author}
+  {\bibfnamefont {O.}~\bibnamefont {Gehre}}, \bibinfo {author} {\bibfnamefont
+  {J.}~\bibnamefont {Gernhardt}}, \bibinfo {author} {\bibfnamefont {G.~v.}\
+  \bibnamefont {Gierke}}, \bibinfo {author} {\bibfnamefont {G.}~\bibnamefont
+  {Haas}}, \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Huang}},
+  \bibinfo {author} {\bibfnamefont {F.}~\bibnamefont {Karger}}, \bibinfo
+  {author} {\bibfnamefont {M.}~\bibnamefont {Keilhacker}}, \bibinfo {author}
+  {\bibfnamefont {O.}~\bibnamefont {Kl\"uber}}, \bibinfo {author}
+  {\bibfnamefont {M.}~\bibnamefont {Kornherr}}, \bibinfo {author}
+  {\bibfnamefont {K.}~\bibnamefont {Lackner}}, \bibinfo {author} {\bibfnamefont
+  {G.}~\bibnamefont {Lisitano}}, \bibinfo {author} {\bibfnamefont {G.~G.}\
+  \bibnamefont {Lister}}, \bibinfo {author} {\bibfnamefont {H.~M.}\
+  \bibnamefont {Mayer}}, \bibinfo {author} {\bibfnamefont {D.}~\bibnamefont
+  {Meisel}}, \bibinfo {author} {\bibfnamefont {E.~R.}\ \bibnamefont
+  {M\"uller}}, \bibinfo {author} {\bibfnamefont {H.}~\bibnamefont {Murmann}},
+  \bibinfo {author} {\bibfnamefont {H.}~\bibnamefont {Niedermeyer}}, \bibinfo
+  {author} {\bibfnamefont {W.}~\bibnamefont {Poschenrieder}}, \bibinfo {author}
+  {\bibfnamefont {H.}~\bibnamefont {Rapp}}, \bibinfo {author} {\bibfnamefont
+  {H.}~\bibnamefont {R\"ohr}}, \bibinfo {author} {\bibfnamefont
+  {F.}~\bibnamefont {Schneider}}, \bibinfo {author} {\bibfnamefont
+  {G.}~\bibnamefont {Siller}}, \bibinfo {author} {\bibfnamefont
+  {E.}~\bibnamefont {Speth}}, \bibinfo {author} {\bibfnamefont
+  {A.}~\bibnamefont {St\"abler}}, \bibinfo {author} {\bibfnamefont {K.~H.}\
+  \bibnamefont {Steuer}}, \bibinfo {author} {\bibfnamefont {G.}~\bibnamefont
+  {Venus}}, \bibinfo {author} {\bibfnamefont {O.}~\bibnamefont {Vollmer}}, \
+  and\ \bibinfo {author} {\bibfnamefont {Z.}~\bibnamefont {Y\"u}},\ }\href
+  {\doibase 10.1103/PhysRevLett.49.1408} {\bibfield  {journal} {\bibinfo
+  {journal} {Physical Review Letters}\ }\textbf {\bibinfo {volume} {49}},\
+  \bibinfo {pages} {1408} (\bibinfo {year} {1982})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Kinsey}\ \emph {et~al.}(2011)\citenamefont {Kinsey},
+  \citenamefont {Staebler}, \citenamefont {Candy}, \citenamefont {Waltz},\ and\
+  \citenamefont {Budny}}]{Kinsey2011}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.~E.}\ \bibnamefont
+  {Kinsey}}, \bibinfo {author} {\bibfnamefont {G.~M.}\ \bibnamefont
+  {Staebler}}, \bibinfo {author} {\bibfnamefont {J.}~\bibnamefont {Candy}},
+  \bibinfo {author} {\bibfnamefont {R.~E.}\ \bibnamefont {Waltz}}, \ and\
+  \bibinfo {author} {\bibfnamefont {R.~V.}\ \bibnamefont {Budny}},\ }\href
+  {http://stacks.iop.org/0029-5515/51/i=8/a=083001} {\bibfield  {journal}
+  {\bibinfo  {journal} {Nuclear Fusion}\ }\textbf {\bibinfo {volume} {51}},\
+  \bibinfo {pages} {083001} (\bibinfo {year} {2011})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Huysmans}(2005)}]{Huysmans2005}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {G.~T.~A.}\
+  \bibnamefont {Huysmans}},\ }\href
+  {http://stacks.iop.org/0741-3335/47/i=12B/a=S13} {\bibfield  {journal}
+  {\bibinfo  {journal} {Plasma Physics and Controlled Fusion}\ }\textbf
+  {\bibinfo {volume} {47}},\ \bibinfo {pages} {B165} (\bibinfo {year}
+  {2005})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Maget}\ \emph {et~al.}(2013)\citenamefont {Maget},
+  \citenamefont {Artaud}, \citenamefont {Bécoulet}, \citenamefont {Casper},
+  \citenamefont {Faustin}, \citenamefont {Garcia}, \citenamefont {Huijsmans},
+  \citenamefont {Loarte},\ and\ \citenamefont {Saibene}}]{Maget2013}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {P.}~\bibnamefont
+  {Maget}}, \bibinfo {author} {\bibfnamefont {J.-F.}\ \bibnamefont {Artaud}},
+  \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Bécoulet}}, \bibinfo
+  {author} {\bibfnamefont {T.}~\bibnamefont {Casper}}, \bibinfo {author}
+  {\bibfnamefont {J.}~\bibnamefont {Faustin}}, \bibinfo {author} {\bibfnamefont
+  {J.}~\bibnamefont {Garcia}}, \bibinfo {author} {\bibfnamefont {G.~T.~A.}\
+  \bibnamefont {Huijsmans}}, \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
+  {Loarte}}, \ and\ \bibinfo {author} {\bibfnamefont {G.}~\bibnamefont
+  {Saibene}},\ }\href {http://stacks.iop.org/0029-5515/53/i=9/a=093011}
+  {\bibfield  {journal} {\bibinfo  {journal} {Nuclear Fusion}\ }\textbf
+  {\bibinfo {volume} {53}},\ \bibinfo {pages} {093011} (\bibinfo {year}
+  {2013})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Snyder}\ \emph {et~al.}(2002)\citenamefont {Snyder},
+  \citenamefont {Wilson}, \citenamefont {Ferron}, \citenamefont {Lao},
+  \citenamefont {Leonard}, \citenamefont {Osborne}, \citenamefont {Turnbull},
+  \citenamefont {Mossessian}, \citenamefont {Murakami},\ and\ \citenamefont
+  {Xu}}]{Snyder2002}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {P.~B.}\ \bibnamefont
+  {Snyder}}, \bibinfo {author} {\bibfnamefont {H.~R.}\ \bibnamefont {Wilson}},
+  \bibinfo {author} {\bibfnamefont {J.~R.}\ \bibnamefont {Ferron}}, \bibinfo
+  {author} {\bibfnamefont {L.~L.}\ \bibnamefont {Lao}}, \bibinfo {author}
+  {\bibfnamefont {A.~W.}\ \bibnamefont {Leonard}}, \bibinfo {author}
+  {\bibfnamefont {T.~H.}\ \bibnamefont {Osborne}}, \bibinfo {author}
+  {\bibfnamefont {A.~D.}\ \bibnamefont {Turnbull}}, \bibinfo {author}
+  {\bibfnamefont {D.}~\bibnamefont {Mossessian}}, \bibinfo {author}
+  {\bibfnamefont {M.}~\bibnamefont {Murakami}}, \ and\ \bibinfo {author}
+  {\bibfnamefont {X.~Q.}\ \bibnamefont {Xu}},\ }\href {\doibase
+  10.1063/1.1449463} {\bibfield  {journal} {\bibinfo  {journal} {Physics of
+  Plasmas}\ }\textbf {\bibinfo {volume} {9}},\ \bibinfo {pages} {2037}
+  (\bibinfo {year} {2002})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Zohm}(1996)}]{Zohm1996}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {H.}~\bibnamefont
+  {Zohm}},\ }\href {http://stacks.iop.org/0741-3335/38/i=2/a=001} {\bibfield
+  {journal} {\bibinfo  {journal} {Plasma Physics and Controlled Fusion}\
+  }\textbf {\bibinfo {volume} {38}},\ \bibinfo {pages} {105} (\bibinfo {year}
+  {1996})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Keilhacker}\ \emph {et~al.}(1984)\citenamefont
+  {Keilhacker}, \citenamefont {Becker}, \citenamefont {Bernhardi},
+  \citenamefont {Eberhagen}, \citenamefont {ElShaer}, \citenamefont {FuBmann},
+  \citenamefont {Gehre}, \citenamefont {Gernhardt}, \citenamefont {v.~Gierke},
+  \citenamefont {Glock}, \citenamefont {Haas}, \citenamefont {Karger},
+  \citenamefont {Kissel}, \citenamefont {Kluber}, \citenamefont {Kornherr},
+  \citenamefont {Lackner}, \citenamefont {Lisitano}, \citenamefont {Lister},
+  \citenamefont {Massig}, \citenamefont {Mayer}, \citenamefont {McCormick},
+  \citenamefont {Meisel}, \citenamefont {Meservey}, \citenamefont {Muller},
+  \citenamefont {Murmann}, \citenamefont {Niedermeyer}, \citenamefont
+  {Poschenrieder}, \citenamefont {Rapp}, \citenamefont {Richter}, \citenamefont
+  {Rohr}, \citenamefont {Ryter}, \citenamefont {Schneider}, \citenamefont
+  {Siller}, \citenamefont {Smeulders}, \citenamefont {Soldner}, \citenamefont
+  {Speth}, \citenamefont {Stabler}, \citenamefont {Steinmetz}, \citenamefont
+  {Steuer}, \citenamefont {Szymanski}, \citenamefont {Venus}, \citenamefont
+  {Vollmer},\ and\ \citenamefont {Wagner}}]{Keilhacker1984}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {Keilhacker}}, \bibinfo {author} {\bibfnamefont {G.}~\bibnamefont {Becker}},
+  \bibinfo {author} {\bibfnamefont {K.}~\bibnamefont {Bernhardi}}, \bibinfo
+  {author} {\bibfnamefont {A.}~\bibnamefont {Eberhagen}}, \bibinfo {author}
+  {\bibfnamefont {M.}~\bibnamefont {ElShaer}}, \bibinfo {author} {\bibfnamefont
+  {G.}~\bibnamefont {FuBmann}}, \bibinfo {author} {\bibfnamefont
+  {O.}~\bibnamefont {Gehre}}, \bibinfo {author} {\bibfnamefont
+  {J.}~\bibnamefont {Gernhardt}}, \bibinfo {author} {\bibfnamefont
+  {G.}~\bibnamefont {v.~Gierke}}, \bibinfo {author} {\bibfnamefont
+  {E.}~\bibnamefont {Glock}}, \bibinfo {author} {\bibfnamefont
+  {G.}~\bibnamefont {Haas}}, \bibinfo {author} {\bibfnamefont {F.}~\bibnamefont
+  {Karger}}, \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Kissel}},
+  \bibinfo {author} {\bibfnamefont {O.}~\bibnamefont {Kluber}}, \bibinfo
+  {author} {\bibfnamefont {K.}~\bibnamefont {Kornherr}}, \bibinfo {author}
+  {\bibfnamefont {K.}~\bibnamefont {Lackner}}, \bibinfo {author} {\bibfnamefont
+  {G.}~\bibnamefont {Lisitano}}, \bibinfo {author} {\bibfnamefont {G.~G.}\
+  \bibnamefont {Lister}}, \bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
+  {Massig}}, \bibinfo {author} {\bibfnamefont {H.~M.}\ \bibnamefont {Mayer}},
+  \bibinfo {author} {\bibfnamefont {K.}~\bibnamefont {McCormick}}, \bibinfo
+  {author} {\bibfnamefont {D.}~\bibnamefont {Meisel}}, \bibinfo {author}
+  {\bibfnamefont {E.}~\bibnamefont {Meservey}}, \bibinfo {author}
+  {\bibfnamefont {E.~R.}\ \bibnamefont {Muller}}, \bibinfo {author}
+  {\bibfnamefont {H.}~\bibnamefont {Murmann}}, \bibinfo {author} {\bibfnamefont
+  {H.}~\bibnamefont {Niedermeyer}}, \bibinfo {author} {\bibfnamefont
+  {W.}~\bibnamefont {Poschenrieder}}, \bibinfo {author} {\bibfnamefont
+  {H.}~\bibnamefont {Rapp}}, \bibinfo {author} {\bibfnamefont {B.}~\bibnamefont
+  {Richter}}, \bibinfo {author} {\bibfnamefont {H.}~\bibnamefont {Rohr}},
+  \bibinfo {author} {\bibfnamefont {F.}~\bibnamefont {Ryter}}, \bibinfo
+  {author} {\bibfnamefont {F.}~\bibnamefont {Schneider}}, \bibinfo {author}
+  {\bibfnamefont {S.}~\bibnamefont {Siller}}, \bibinfo {author} {\bibfnamefont
+  {P.}~\bibnamefont {Smeulders}}, \bibinfo {author} {\bibfnamefont
+  {F.}~\bibnamefont {Soldner}}, \bibinfo {author} {\bibfnamefont
+  {E.}~\bibnamefont {Speth}}, \bibinfo {author} {\bibfnamefont
+  {A.}~\bibnamefont {Stabler}}, \bibinfo {author} {\bibfnamefont
+  {K.}~\bibnamefont {Steinmetz}}, \bibinfo {author} {\bibfnamefont {K.-H.}\
+  \bibnamefont {Steuer}}, \bibinfo {author} {\bibfnamefont {Z.}~\bibnamefont
+  {Szymanski}}, \bibinfo {author} {\bibfnamefont {G.}~\bibnamefont {Venus}},
+  \bibinfo {author} {\bibfnamefont {O.}~\bibnamefont {Vollmer}}, \ and\
+  \bibinfo {author} {\bibfnamefont {F.}~\bibnamefont {Wagner}},\ }\href
+  {http://stacks.iop.org/0741-3335/26/i=1A/a=305} {\bibfield  {journal}
+  {\bibinfo  {journal} {Plasma Physics and Controlled Fusion}\ }\textbf
+  {\bibinfo {volume} {26}},\ \bibinfo {pages} {49} (\bibinfo {year}
+  {1984})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {{ITER Physics Expert Group on Confinement}},
+  \citenamefont {{Transport and ITER Physics Expert Group on Confinement
+  Modelling and Database}},\ and\ \citenamefont {{ITER Physics Basis
+  Editors}}(1999)}]{ITER1999}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibnamefont {{ITER Physics Expert
+  Group on Confinement}}}, \bibinfo {author} {\bibnamefont {{Transport and ITER
+  Physics Expert Group on Confinement Modelling and Database}}}, \ and\
+  \bibinfo {author} {\bibnamefont {{ITER Physics Basis Editors}}},\ }\href
+  {http://stacks.iop.org/0029-5515/39/i=12/a=302} {\bibfield  {journal}
+  {\bibinfo  {journal} {Nuclear Fusion}\ }\textbf {\bibinfo {volume} {39}},\
+  \bibinfo {pages} {2175} (\bibinfo {year} {1999})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Shimada}\ \emph {et~al.}(2007)\citenamefont
+  {Shimada}, \citenamefont {Campbell}, \citenamefont {Mukhovatov},
+  \citenamefont {Fujiwara}, \citenamefont {Kirneva}, \citenamefont {Lackner},
+  \citenamefont {Nagami}, \citenamefont {Pustovitov}, \citenamefont {Uckan},
+  \citenamefont {Wesley}, \citenamefont {Asakura}, \citenamefont {Costley},
+  \citenamefont {Donn\'e}, \citenamefont {Doyle}, \citenamefont {Fasoli},
+  \citenamefont {Gormezano}, \citenamefont {Gribov}, \citenamefont {Gruber},
+  \citenamefont {Hender}, \citenamefont {Houlberg}, \citenamefont {Ide},
+  \citenamefont {Kamada}, \citenamefont {Leonard}, \citenamefont {Lipschultz},
+  \citenamefont {Loarte}, \citenamefont {Miyamoto}, \citenamefont {Mukhovatov},
+  \citenamefont {Osborne}, \citenamefont {Polevoi},\ and\ \citenamefont
+  {Sips}}]{Shimada2007}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {Shimada}}, \bibinfo {author} {\bibfnamefont {D.~J.}\ \bibnamefont
+  {Campbell}}, \bibinfo {author} {\bibfnamefont {V.}~\bibnamefont
+  {Mukhovatov}}, \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {Fujiwara}}, \bibinfo {author} {\bibfnamefont {N.}~\bibnamefont {Kirneva}},
+  \bibinfo {author} {\bibfnamefont {K.}~\bibnamefont {Lackner}}, \bibinfo
+  {author} {\bibfnamefont {M.}~\bibnamefont {Nagami}}, \bibinfo {author}
+  {\bibfnamefont {V.~D.}\ \bibnamefont {Pustovitov}}, \bibinfo {author}
+  {\bibfnamefont {N.}~\bibnamefont {Uckan}}, \bibinfo {author} {\bibfnamefont
+  {J.}~\bibnamefont {Wesley}}, \bibinfo {author} {\bibfnamefont
+  {N.}~\bibnamefont {Asakura}}, \bibinfo {author} {\bibfnamefont {A.~E.}\
+  \bibnamefont {Costley}}, \bibinfo {author} {\bibfnamefont {A.~J.~H.}\
+  \bibnamefont {Donn\'e}}, \bibinfo {author} {\bibfnamefont {E.~J.}\
+  \bibnamefont {Doyle}}, \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
+  {Fasoli}}, \bibinfo {author} {\bibfnamefont {C.}~\bibnamefont {Gormezano}},
+  \bibinfo {author} {\bibfnamefont {Y.}~\bibnamefont {Gribov}}, \bibinfo
+  {author} {\bibfnamefont {O.}~\bibnamefont {Gruber}}, \bibinfo {author}
+  {\bibfnamefont {T.~C.}\ \bibnamefont {Hender}}, \bibinfo {author}
+  {\bibfnamefont {W.}~\bibnamefont {Houlberg}}, \bibinfo {author}
+  {\bibfnamefont {S.}~\bibnamefont {Ide}}, \bibinfo {author} {\bibfnamefont
+  {Y.}~\bibnamefont {Kamada}}, \bibinfo {author} {\bibfnamefont
+  {A.}~\bibnamefont {Leonard}}, \bibinfo {author} {\bibfnamefont
+  {B.}~\bibnamefont {Lipschultz}}, \bibinfo {author} {\bibfnamefont
+  {A.}~\bibnamefont {Loarte}}, \bibinfo {author} {\bibfnamefont
+  {K.}~\bibnamefont {Miyamoto}}, \bibinfo {author} {\bibfnamefont
+  {V.}~\bibnamefont {Mukhovatov}}, \bibinfo {author} {\bibfnamefont {T.~H.}\
+  \bibnamefont {Osborne}}, \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
+  {Polevoi}}, \ and\ \bibinfo {author} {\bibfnamefont {A.~C.~C.}\ \bibnamefont
+  {Sips}},\ }\href {http://stacks.iop.org/0029-5515/47/i=6/a=S01} {\bibfield
+  {journal} {\bibinfo  {journal} {Nuclear Fusion}\ }\textbf {\bibinfo {volume}
+  {47}},\ \bibinfo {pages} {S1} (\bibinfo {year} {2007})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Loarte}\ \emph {et~al.}(2003)\citenamefont {Loarte},
+  \citenamefont {Saibene}, \citenamefont {Sartori}, \citenamefont {Campbell},
+  \citenamefont {Becoulet}, \citenamefont {Horton}, \citenamefont {Eich},
+  \citenamefont {Herrmann}, \citenamefont {Matthews}, \citenamefont {Asakura},
+  \citenamefont {Chankin}, \citenamefont {Leonard}, \citenamefont {Porter},
+  \citenamefont {Federici}, \citenamefont {Janeschitz}, \citenamefont
+  {Shimada},\ and\ \citenamefont {Sugihara}}]{Loarte2003}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
+  {Loarte}}, \bibinfo {author} {\bibfnamefont {G.}~\bibnamefont {Saibene}},
+  \bibinfo {author} {\bibfnamefont {R.}~\bibnamefont {Sartori}}, \bibinfo
+  {author} {\bibfnamefont {D.}~\bibnamefont {Campbell}}, \bibinfo {author}
+  {\bibfnamefont {M.}~\bibnamefont {Becoulet}}, \bibinfo {author}
+  {\bibfnamefont {L.}~\bibnamefont {Horton}}, \bibinfo {author} {\bibfnamefont
+  {T.}~\bibnamefont {Eich}}, \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
+  {Herrmann}}, \bibinfo {author} {\bibfnamefont {G.}~\bibnamefont {Matthews}},
+  \bibinfo {author} {\bibfnamefont {N.}~\bibnamefont {Asakura}}, \bibinfo
+  {author} {\bibfnamefont {A.}~\bibnamefont {Chankin}}, \bibinfo {author}
+  {\bibfnamefont {A.}~\bibnamefont {Leonard}}, \bibinfo {author} {\bibfnamefont
+  {G.}~\bibnamefont {Porter}}, \bibinfo {author} {\bibfnamefont
+  {G.}~\bibnamefont {Federici}}, \bibinfo {author} {\bibfnamefont
+  {G.}~\bibnamefont {Janeschitz}}, \bibinfo {author} {\bibfnamefont
+  {M.}~\bibnamefont {Shimada}}, \ and\ \bibinfo {author} {\bibfnamefont
+  {M.}~\bibnamefont {Sugihara}},\ }\href
+  {http://stacks.iop.org/0741-3335/45/i=9/a=302} {\bibfield  {journal}
+  {\bibinfo  {journal} {Plasma Physics and Controlled Fusion}\ }\textbf
+  {\bibinfo {volume} {45}},\ \bibinfo {pages} {1549} (\bibinfo {year}
+  {2003})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Federici}, \citenamefont {Loarte},\ and\
+  \citenamefont {Strohmayer}(2003)}]{Federici2003}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {G.}~\bibnamefont
+  {Federici}}, \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Loarte}}, \
+  and\ \bibinfo {author} {\bibfnamefont {G.}~\bibnamefont {Strohmayer}},\
+  }\href {http://stacks.iop.org/0741-3335/45/i=9/a=301} {\bibfield  {journal}
+  {\bibinfo  {journal} {Plasma Physics and Controlled Fusion}\ }\textbf
+  {\bibinfo {volume} {45}},\ \bibinfo {pages} {1523} (\bibinfo {year}
+  {2003})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Baylor}\ \emph {et~al.}(2013)\citenamefont {Baylor},
+  \citenamefont {Commaux}, \citenamefont {Jernigan}, \citenamefont {Meitner},
+  \citenamefont {Combs}, \citenamefont {Isler}, \citenamefont {Unterberg},
+  \citenamefont {Brooks}, \citenamefont {Evans}, \citenamefont {Leonard},
+  \citenamefont {Osborne}, \citenamefont {Parks}, \citenamefont {Snyder},
+  \citenamefont {Strait}, \citenamefont {Fenstermacher}, \citenamefont
+  {Lasnier}, \citenamefont {Moyer}, \citenamefont {Loarte}, \citenamefont
+  {Huijsmans},\ and\ \citenamefont {Futatani}}]{Baylor2013}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {L.~R.}\ \bibnamefont
+  {Baylor}}, \bibinfo {author} {\bibfnamefont {N.}~\bibnamefont {Commaux}},
+  \bibinfo {author} {\bibfnamefont {T.~C.}\ \bibnamefont {Jernigan}}, \bibinfo
+  {author} {\bibfnamefont {S.~J.}\ \bibnamefont {Meitner}}, \bibinfo {author}
+  {\bibfnamefont {S.~K.}\ \bibnamefont {Combs}}, \bibinfo {author}
+  {\bibfnamefont {R.~C.}\ \bibnamefont {Isler}}, \bibinfo {author}
+  {\bibfnamefont {E.~A.}\ \bibnamefont {Unterberg}}, \bibinfo {author}
+  {\bibfnamefont {N.~H.}\ \bibnamefont {Brooks}}, \bibinfo {author}
+  {\bibfnamefont {T.~E.}\ \bibnamefont {Evans}}, \bibinfo {author}
+  {\bibfnamefont {A.~W.}\ \bibnamefont {Leonard}}, \bibinfo {author}
+  {\bibfnamefont {T.~H.}\ \bibnamefont {Osborne}}, \bibinfo {author}
+  {\bibfnamefont {P.~B.}\ \bibnamefont {Parks}}, \bibinfo {author}
+  {\bibfnamefont {P.~B.}\ \bibnamefont {Snyder}}, \bibinfo {author}
+  {\bibfnamefont {E.~J.}\ \bibnamefont {Strait}}, \bibinfo {author}
+  {\bibfnamefont {M.~E.}\ \bibnamefont {Fenstermacher}}, \bibinfo {author}
+  {\bibfnamefont {C.~J.}\ \bibnamefont {Lasnier}}, \bibinfo {author}
+  {\bibfnamefont {R.~A.}\ \bibnamefont {Moyer}}, \bibinfo {author}
+  {\bibfnamefont {A.}~\bibnamefont {Loarte}}, \bibinfo {author} {\bibfnamefont
+  {G.~T.~A.}\ \bibnamefont {Huijsmans}}, \ and\ \bibinfo {author}
+  {\bibfnamefont {S.}~\bibnamefont {Futatani}},\ }\href {\doibase
+  http://dx.doi.org/10.1063/1.4818772} {\bibfield  {journal} {\bibinfo
+  {journal} {Physics of Plasmas}\ }\textbf {\bibinfo {volume} {20}},\ \bibinfo
+  {pages} {082513} (\bibinfo {year} {2013})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Lang}\ \emph {et~al.}(2014)\citenamefont {Lang},
+  \citenamefont {Burckhart}, \citenamefont {Bernert}, \citenamefont {Casali},
+  \citenamefont {Fischer}, \citenamefont {Kardaun}, \citenamefont {Kocsis},
+  \citenamefont {Maraschek}, \citenamefont {Mlynek}, \citenamefont {Pl\"ockl},
+  \citenamefont {Reich}, \citenamefont {Ryter}, \citenamefont {Schweinzer},
+  \citenamefont {Sieglin}, \citenamefont {Suttrop}, \citenamefont {Szepesi},
+  \citenamefont {Tardini}, \citenamefont {Wolfrum}, \citenamefont {Zasche},
+  \citenamefont {Zohm},\ and\ \citenamefont {{the ASDEX Upgrade
+  Team}}}]{Lang2014}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {P.~T.}\ \bibnamefont
+  {Lang}}, \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Burckhart}},
+  \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Bernert}}, \bibinfo
+  {author} {\bibfnamefont {L.}~\bibnamefont {Casali}}, \bibinfo {author}
+  {\bibfnamefont {R.}~\bibnamefont {Fischer}}, \bibinfo {author} {\bibfnamefont
+  {O.}~\bibnamefont {Kardaun}}, \bibinfo {author} {\bibfnamefont
+  {G.}~\bibnamefont {Kocsis}}, \bibinfo {author} {\bibfnamefont
+  {M.}~\bibnamefont {Maraschek}}, \bibinfo {author} {\bibfnamefont
+  {A.}~\bibnamefont {Mlynek}}, \bibinfo {author} {\bibfnamefont
+  {B.}~\bibnamefont {Pl\"ockl}}, \bibinfo {author} {\bibfnamefont
+  {M.}~\bibnamefont {Reich}}, \bibinfo {author} {\bibfnamefont
+  {F.}~\bibnamefont {Ryter}}, \bibinfo {author} {\bibfnamefont
+  {J.}~\bibnamefont {Schweinzer}}, \bibinfo {author} {\bibfnamefont
+  {B.}~\bibnamefont {Sieglin}}, \bibinfo {author} {\bibfnamefont
+  {W.}~\bibnamefont {Suttrop}}, \bibinfo {author} {\bibfnamefont
+  {T.}~\bibnamefont {Szepesi}}, \bibinfo {author} {\bibfnamefont
+  {G.}~\bibnamefont {Tardini}}, \bibinfo {author} {\bibfnamefont
+  {E.}~\bibnamefont {Wolfrum}}, \bibinfo {author} {\bibfnamefont
+  {D.}~\bibnamefont {Zasche}}, \bibinfo {author} {\bibfnamefont
+  {H.}~\bibnamefont {Zohm}}, \ and\ \bibinfo {author} {\bibnamefont {{the ASDEX
+  Upgrade Team}}},\ }\href {http://stacks.iop.org/0029-5515/54/i=8/a=083009}
+  {\bibfield  {journal} {\bibinfo  {journal} {Nuclear Fusion}\ }\textbf
+  {\bibinfo {volume} {54}},\ \bibinfo {pages} {083009} (\bibinfo {year}
+  {2014})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Lang}\ \emph {et~al.}(2013)\citenamefont {Lang},
+  \citenamefont {Frigione}, \citenamefont {G\'araud}, \citenamefont {Alarcon},
+  \citenamefont {Bennett}, \citenamefont {Cseh}, \citenamefont {Garnier},
+  \citenamefont {Garzotti}, \citenamefont {K\"ochl}, \citenamefont {Kocsis},
+  \citenamefont {Lennholm}, \citenamefont {Neu}, \citenamefont {Mooney},
+  \citenamefont {Saarelma}, \citenamefont {Sieglin},\ and\ \citenamefont
+  {{JET-EFDA Contributors}}}]{Lang2013}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {P.}~\bibnamefont
+  {Lang}}, \bibinfo {author} {\bibfnamefont {D.}~\bibnamefont {Frigione}},
+  \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {G\'araud}}, \bibinfo
+  {author} {\bibfnamefont {T.}~\bibnamefont {Alarcon}}, \bibinfo {author}
+  {\bibfnamefont {P.}~\bibnamefont {Bennett}}, \bibinfo {author} {\bibfnamefont
+  {G.}~\bibnamefont {Cseh}}, \bibinfo {author} {\bibfnamefont {D.}~\bibnamefont
+  {Garnier}}, \bibinfo {author} {\bibfnamefont {L.}~\bibnamefont {Garzotti}},
+  \bibinfo {author} {\bibfnamefont {F.}~\bibnamefont {K\"ochl}}, \bibinfo
+  {author} {\bibfnamefont {G.}~\bibnamefont {Kocsis}}, \bibinfo {author}
+  {\bibfnamefont {M.}~\bibnamefont {Lennholm}}, \bibinfo {author}
+  {\bibfnamefont {R.}~\bibnamefont {Neu}}, \bibinfo {author} {\bibfnamefont
+  {R.}~\bibnamefont {Mooney}}, \bibinfo {author} {\bibfnamefont
+  {S.}~\bibnamefont {Saarelma}}, \bibinfo {author} {\bibfnamefont
+  {B.}~\bibnamefont {Sieglin}}, \ and\ \bibinfo {author} {\bibnamefont
+  {{JET-EFDA Contributors}}},\ }\href
+  {http://stacks.iop.org/0029-5515/53/i=7/a=073010} {\bibfield  {journal}
+  {\bibinfo  {journal} {Nuclear Fusion}\ }\textbf {\bibinfo {volume} {53}},\
+  \bibinfo {pages} {073010} (\bibinfo {year} {2013})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Evans}\ \emph {et~al.}(2004)\citenamefont {Evans},
+  \citenamefont {Moyer}, \citenamefont {Thomas}, \citenamefont {Watkins},
+  \citenamefont {Osborne}, \citenamefont {Boedo}, \citenamefont {Doyle},
+  \citenamefont {Fenstermacher}, \citenamefont {Finken}, \citenamefont
+  {Groebner}, \citenamefont {Groth}, \citenamefont {Harris}, \citenamefont
+  {La~Haye}, \citenamefont {Lasnier}, \citenamefont {Masuzaki}, \citenamefont
+  {Ohyabu}, \citenamefont {Pretty}, \citenamefont {Rhodes}, \citenamefont
+  {Reimerdes}, \citenamefont {Rudakov}, \citenamefont {Schaffer}, \citenamefont
+  {Wang},\ and\ \citenamefont {Zeng}}]{Evans2004}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {T.~E.}\ \bibnamefont
+  {Evans}}, \bibinfo {author} {\bibfnamefont {R.~A.}\ \bibnamefont {Moyer}},
+  \bibinfo {author} {\bibfnamefont {P.~R.}\ \bibnamefont {Thomas}}, \bibinfo
+  {author} {\bibfnamefont {J.~G.}\ \bibnamefont {Watkins}}, \bibinfo {author}
+  {\bibfnamefont {T.~H.}\ \bibnamefont {Osborne}}, \bibinfo {author}
+  {\bibfnamefont {J.~A.}\ \bibnamefont {Boedo}}, \bibinfo {author}
+  {\bibfnamefont {E.~J.}\ \bibnamefont {Doyle}}, \bibinfo {author}
+  {\bibfnamefont {M.~E.}\ \bibnamefont {Fenstermacher}}, \bibinfo {author}
+  {\bibfnamefont {K.~H.}\ \bibnamefont {Finken}}, \bibinfo {author}
+  {\bibfnamefont {R.~J.}\ \bibnamefont {Groebner}}, \bibinfo {author}
+  {\bibfnamefont {M.}~\bibnamefont {Groth}}, \bibinfo {author} {\bibfnamefont
+  {J.~H.}\ \bibnamefont {Harris}}, \bibinfo {author} {\bibfnamefont {R.~J.}\
+  \bibnamefont {La~Haye}}, \bibinfo {author} {\bibfnamefont {C.~J.}\
+  \bibnamefont {Lasnier}}, \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont
+  {Masuzaki}}, \bibinfo {author} {\bibfnamefont {N.}~\bibnamefont {Ohyabu}},
+  \bibinfo {author} {\bibfnamefont {D.~G.}\ \bibnamefont {Pretty}}, \bibinfo
+  {author} {\bibfnamefont {T.~L.}\ \bibnamefont {Rhodes}}, \bibinfo {author}
+  {\bibfnamefont {H.}~\bibnamefont {Reimerdes}}, \bibinfo {author}
+  {\bibfnamefont {D.~L.}\ \bibnamefont {Rudakov}}, \bibinfo {author}
+  {\bibfnamefont {M.~J.}\ \bibnamefont {Schaffer}}, \bibinfo {author}
+  {\bibfnamefont {G.}~\bibnamefont {Wang}}, \ and\ \bibinfo {author}
+  {\bibfnamefont {L.}~\bibnamefont {Zeng}},\ }\href {\doibase
+  10.1103/PhysRevLett.92.235003} {\bibfield  {journal} {\bibinfo  {journal}
+  {Physical Review Letters}\ }\textbf {\bibinfo {volume} {92}},\ \bibinfo
+  {pages} {235003} (\bibinfo {year} {2004})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Moyer}\ \emph {et~al.}(2005)\citenamefont {Moyer},
+  \citenamefont {Evans}, \citenamefont {Osborne}, \citenamefont {Thomas},
+  \citenamefont {Becoulet}, \citenamefont {Harris}, \citenamefont {Finken},
+  \citenamefont {Boedo}, \citenamefont {Doyle}, \citenamefont {Fenstermacher},
+  \citenamefont {Gohil}, \citenamefont {Groebner}, \citenamefont {Groth},
+  \citenamefont {Jackson}, \citenamefont {La~Haye}, \citenamefont {Lasnier},
+  \citenamefont {Leonard}, \citenamefont {McKee}, \citenamefont {Reimerdes},
+  \citenamefont {Rhodes}, \citenamefont {Rudakov}, \citenamefont {Schaffer},
+  \citenamefont {Snyder}, \citenamefont {Wade}, \citenamefont {Wang},
+  \citenamefont {Watkins}, \citenamefont {West},\ and\ \citenamefont
+  {Zeng}}]{Moyer2005}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {R.~A.}\ \bibnamefont
+  {Moyer}}, \bibinfo {author} {\bibfnamefont {T.~E.}\ \bibnamefont {Evans}},
+  \bibinfo {author} {\bibfnamefont {T.~H.}\ \bibnamefont {Osborne}}, \bibinfo
+  {author} {\bibfnamefont {P.~R.}\ \bibnamefont {Thomas}}, \bibinfo {author}
+  {\bibfnamefont {M.}~\bibnamefont {Becoulet}}, \bibinfo {author}
+  {\bibfnamefont {J.}~\bibnamefont {Harris}}, \bibinfo {author} {\bibfnamefont
+  {K.-H.}\ \bibnamefont {Finken}}, \bibinfo {author} {\bibfnamefont {J.~A.}\
+  \bibnamefont {Boedo}}, \bibinfo {author} {\bibfnamefont {E.~J.}\ \bibnamefont
+  {Doyle}}, \bibinfo {author} {\bibfnamefont {M.~E.}\ \bibnamefont
+  {Fenstermacher}}, \bibinfo {author} {\bibfnamefont {P.}~\bibnamefont
+  {Gohil}}, \bibinfo {author} {\bibfnamefont {R.~J.}\ \bibnamefont {Groebner}},
+  \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Groth}}, \bibinfo
+  {author} {\bibfnamefont {G.~L.}\ \bibnamefont {Jackson}}, \bibinfo {author}
+  {\bibfnamefont {R.~J.}\ \bibnamefont {La~Haye}}, \bibinfo {author}
+  {\bibfnamefont {C.~J.}\ \bibnamefont {Lasnier}}, \bibinfo {author}
+  {\bibfnamefont {A.~W.}\ \bibnamefont {Leonard}}, \bibinfo {author}
+  {\bibfnamefont {G.~R.}\ \bibnamefont {McKee}}, \bibinfo {author}
+  {\bibfnamefont {H.}~\bibnamefont {Reimerdes}}, \bibinfo {author}
+  {\bibfnamefont {T.~L.}\ \bibnamefont {Rhodes}}, \bibinfo {author}
+  {\bibfnamefont {D.~L.}\ \bibnamefont {Rudakov}}, \bibinfo {author}
+  {\bibfnamefont {M.~J.}\ \bibnamefont {Schaffer}}, \bibinfo {author}
+  {\bibfnamefont {P.~B.}\ \bibnamefont {Snyder}}, \bibinfo {author}
+  {\bibfnamefont {M.~R.}\ \bibnamefont {Wade}}, \bibinfo {author}
+  {\bibfnamefont {G.}~\bibnamefont {Wang}}, \bibinfo {author} {\bibfnamefont
+  {J.~G.}\ \bibnamefont {Watkins}}, \bibinfo {author} {\bibfnamefont {W.~P.}\
+  \bibnamefont {West}}, \ and\ \bibinfo {author} {\bibfnamefont
+  {L.}~\bibnamefont {Zeng}},\ }\href {\doibase
+  http://dx.doi.org/10.1063/1.1888705} {\bibfield  {journal} {\bibinfo
+  {journal} {Physics of Plasmas}\ }\textbf {\bibinfo {volume} {12}},\ \bibinfo
+  {eid} {056119} (\bibinfo {year} {2005})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Evans}\ \emph {et~al.}(2006)\citenamefont {Evans},
+  \citenamefont {Moyer}, \citenamefont {Burrell}, \citenamefont
+  {Fenstermacher}, \citenamefont {Joseph}, \citenamefont {Leonard},
+  \citenamefont {Osborne}, \citenamefont {Porter}, \citenamefont {Schaffer},
+  \citenamefont {Snyder}, \citenamefont {Thomas}, \citenamefont {Watkins},\
+  and\ \citenamefont {West}}]{Evans2006}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {T.~E.}\ \bibnamefont
+  {Evans}}, \bibinfo {author} {\bibfnamefont {R.~A.}\ \bibnamefont {Moyer}},
+  \bibinfo {author} {\bibfnamefont {K.~H.}\ \bibnamefont {Burrell}}, \bibinfo
+  {author} {\bibfnamefont {M.~E.}\ \bibnamefont {Fenstermacher}}, \bibinfo
+  {author} {\bibfnamefont {I.}~\bibnamefont {Joseph}}, \bibinfo {author}
+  {\bibfnamefont {A.}~\bibnamefont {Leonard}}, \bibinfo {author} {\bibfnamefont
+  {T.~H.}\ \bibnamefont {Osborne}}, \bibinfo {author} {\bibfnamefont
+  {G.}~\bibnamefont {Porter}}, \bibinfo {author} {\bibfnamefont {M.~J.}\
+  \bibnamefont {Schaffer}}, \bibinfo {author} {\bibfnamefont {P.~B.}\
+  \bibnamefont {Snyder}}, \bibinfo {author} {\bibfnamefont {P.~R.}\
+  \bibnamefont {Thomas}}, \bibinfo {author} {\bibfnamefont {J.~G.}\
+  \bibnamefont {Watkins}}, \ and\ \bibinfo {author} {\bibfnamefont {W.~P.}\
+  \bibnamefont {West}},\ }\href {\doibase doi:10.1038/nphys312} {\bibfield
+  {journal} {\bibinfo  {journal} {Nature Physics}\ }\textbf {\bibinfo {volume}
+  {2}},\ \bibinfo {pages} {419} (\bibinfo {year} {2006})}\BibitemShut {NoStop}%
 \end{thebibliography}%
