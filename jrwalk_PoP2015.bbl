@@ -6,7 +6,7 @@
 %Control: page (0) single
 %Control: year (1) truncated
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{23}%
+\begin{thebibliography}{27}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -615,6 +615,35 @@
   {http://stacks.iop.org/0029-5515/50/i=10/a=105005} {\bibfield  {journal}
   {\bibinfo  {journal} {Nuclear Fusion}\ }\textbf {\bibinfo {volume} {50}},\
   \bibinfo {pages} {105005} (\bibinfo {year} {2010})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Hubbard}\ \emph {et~al.}(2011)\citenamefont
+  {Hubbard}, \citenamefont {Whyte}, \citenamefont {Churchill}, \citenamefont
+  {Cziegler}, \citenamefont {Dominguez}, \citenamefont {Golfinopoulos},
+  \citenamefont {Hughes}, \citenamefont {Rice}, \citenamefont {Bespamyatnov},
+  \citenamefont {Greenwald}, \citenamefont {Howard}, \citenamefont
+  {Lipschultz}, \citenamefont {Marmar}, \citenamefont {Reinke}, \citenamefont
+  {Rowan}, \citenamefont {Terry},\ and\ \citenamefont {{the Alcator C-Mod
+  Group}}}]{Hubbard2011}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.~E.}\ \bibnamefont
+  {Hubbard}}, \bibinfo {author} {\bibfnamefont {D.~G.}\ \bibnamefont {Whyte}},
+  \bibinfo {author} {\bibfnamefont {R.~M.}\ \bibnamefont {Churchill}}, \bibinfo
+  {author} {\bibfnamefont {I.}~\bibnamefont {Cziegler}}, \bibinfo {author}
+  {\bibfnamefont {A.}~\bibnamefont {Dominguez}}, \bibinfo {author}
+  {\bibfnamefont {T.}~\bibnamefont {Golfinopoulos}}, \bibinfo {author}
+  {\bibfnamefont {J.~W.}\ \bibnamefont {Hughes}}, \bibinfo {author}
+  {\bibfnamefont {J.~E.}\ \bibnamefont {Rice}}, \bibinfo {author}
+  {\bibfnamefont {I.}~\bibnamefont {Bespamyatnov}}, \bibinfo {author}
+  {\bibfnamefont {M.~J.}\ \bibnamefont {Greenwald}}, \bibinfo {author}
+  {\bibfnamefont {N.}~\bibnamefont {Howard}}, \bibinfo {author} {\bibfnamefont
+  {B.}~\bibnamefont {Lipschultz}}, \bibinfo {author} {\bibfnamefont {E.~S.}\
+  \bibnamefont {Marmar}}, \bibinfo {author} {\bibfnamefont {M.~L.}\
+  \bibnamefont {Reinke}}, \bibinfo {author} {\bibfnamefont {W.~L.}\
+  \bibnamefont {Rowan}}, \bibinfo {author} {\bibfnamefont {J.~L.}\ \bibnamefont
+  {Terry}}, \ and\ \bibinfo {author} {\bibnamefont {{the Alcator C-Mod Group}}}
+  (\bibinfo {collaboration} {Alcator C-Mod Group}),\ }\href {\doibase
+  10.1063/1.3582135} {\bibfield  {journal} {\bibinfo  {journal} {Physics of
+  Plasmas}\ }\textbf {\bibinfo {volume} {18}},\ \bibinfo {eid} {056115}
+  (\bibinfo {year} {2011})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Walk}\ \emph {et~al.}(2014)\citenamefont {Walk},
   \citenamefont {Hughes}, \citenamefont {Hubbard}, \citenamefont {Terry},
   \citenamefont {Whyte}, \citenamefont {White}, \citenamefont {Baek},
@@ -694,4 +723,52 @@
   {journal} {\bibinfo  {journal} {Physics of Plasmas}\ }\textbf {\bibinfo
   {volume} {1}},\ \bibinfo {pages} {1511} (\bibinfo {year} {1994})}\BibitemShut
   {NoStop}%
+\bibitem [{\citenamefont {Howard}, \citenamefont {Greenwald},\ and\
+  \citenamefont {Rice}(2011)}]{Howard2011}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {N.~T.}\ \bibnamefont
+  {Howard}}, \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Greenwald}}, \
+  and\ \bibinfo {author} {\bibfnamefont {J.~E.}\ \bibnamefont {Rice}},\ }\href
+  {\doibase http://dx.doi.org/10.1063/1.3565448} {\bibfield  {journal}
+  {\bibinfo  {journal} {Review of Scientific Instruments}\ }\textbf {\bibinfo
+  {volume} {82}},\ \bibinfo {pages} {033512} (\bibinfo {year}
+  {2011})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Dominguez}(2012)}]{Dominguez2012}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
+  {Dominguez}},\ }\emph {\bibinfo {title} {Study of Density Fluctuations and
+  Particle Transport at the Edge of I-Mode Plasmas}},\ \href
+  {http://dspace.mit.edu/handle/1721.1/79261} {Ph.D. thesis},\ \bibinfo
+  {school} {Massachusetts Institute of Technology} (\bibinfo {year}
+  {2012})\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Christiansen}\ \emph {et~al.}(1992)\citenamefont
+  {Christiansen}, \citenamefont {Cordey}, \citenamefont {Thomsen},
+  \citenamefont {Tanga}, \citenamefont {DeBoo}, \citenamefont {Schissel},
+  \citenamefont {Taylor}, \citenamefont {Kardaun}, \citenamefont {Wagner},
+  \citenamefont {Ryter}, \citenamefont {Kaye}, \citenamefont {Miura},
+  \citenamefont {Suzuki}, \citenamefont {Mori}, \citenamefont {Matsuda},
+  \citenamefont {Tamai}, \citenamefont {Takizuka}, \citenamefont {Itoh},\ and\
+  \citenamefont {Itoh}}]{Christiansen1992}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.~P.}\ \bibnamefont
+  {Christiansen}}, \bibinfo {author} {\bibfnamefont {J.~G.}\ \bibnamefont
+  {Cordey}}, \bibinfo {author} {\bibfnamefont {K.}~\bibnamefont {Thomsen}},
+  \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Tanga}}, \bibinfo
+  {author} {\bibfnamefont {J.~C.}\ \bibnamefont {DeBoo}}, \bibinfo {author}
+  {\bibfnamefont {D.~P.}\ \bibnamefont {Schissel}}, \bibinfo {author}
+  {\bibfnamefont {T.~S.}\ \bibnamefont {Taylor}}, \bibinfo {author}
+  {\bibfnamefont {O.~J. W.~F.}\ \bibnamefont {Kardaun}}, \bibinfo {author}
+  {\bibfnamefont {F.}~\bibnamefont {Wagner}}, \bibinfo {author} {\bibfnamefont
+  {F.}~\bibnamefont {Ryter}}, \bibinfo {author} {\bibfnamefont {S.~M.}\
+  \bibnamefont {Kaye}}, \bibinfo {author} {\bibfnamefont {Y.}~\bibnamefont
+  {Miura}}, \bibinfo {author} {\bibfnamefont {N.}~\bibnamefont {Suzuki}},
+  \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Mori}}, \bibinfo {author}
+  {\bibfnamefont {T.}~\bibnamefont {Matsuda}}, \bibinfo {author} {\bibfnamefont
+  {H.}~\bibnamefont {Tamai}}, \bibinfo {author} {\bibfnamefont
+  {T.}~\bibnamefont {Takizuka}}, \bibinfo {author} {\bibfnamefont {S.-I.}\
+  \bibnamefont {Itoh}}, \ and\ \bibinfo {author} {\bibfnamefont
+  {K.}~\bibnamefont {Itoh}},\ }\href
+  {http://stacks.iop.org/0029-5515/32/i=2/a=I11} {\bibfield  {journal}
+  {\bibinfo  {journal} {Nuclear Fusion}\ }\textbf {\bibinfo {volume} {32}},\
+  \bibinfo {pages} {291} (\bibinfo {year} {1992})}\BibitemShut {NoStop}%
 \end{thebibliography}%
