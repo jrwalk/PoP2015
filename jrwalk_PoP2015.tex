@@ -90,13 +90,34 @@ In this paper, we examine these intermittent events through computational modeli
 
 \section{I-Mode Access \& Experimental Setup}\label{sec:setup}
 
-The I-mode experiments presented here were carried out on the Alcator C-Mod tokamak \cite{Hutchinson1994}, a compact, high-field device with major radius $R \sim 0.67 \;\mbox{m}$, minor radius $a \sim 0.22 \;\mbox{m}$, and toroidal field up to $B_T \le 8.1 \;\mbox{T}$.  Alcator C-Mod operates with entirely high-$Z$ metal plasma-facing components, and reaches comparable heat flux to the divertor to that expected for ITER \cite{Loarte2007,Terry2007,LaBombard2011}, making it a uniquely-suited test bed for SOL and divertor experiments in support of ITER\gnote{too much?}.  High-performance operation is commonly assisted by boronization treatment of plasma-facing materials -- however, due to the low impurity confinement in I-mode a recent boronization is not critical for these experiments.  Alcator C-Mod plasmas are purely RF heated with up to $5.5 \;\mbox{MW}$ of ion-cyclotron heating power.
+The I-mode experiments presented here were carried out on the Alcator C-Mod tokamak \cite{Hutchinson1994}, a compact, high-field device with major radius $R \sim 0.67 \;\mbox{m}$, minor radius $a \sim 0.22 \;\mbox{m}$, and toroidal field up to $B_T \le 8.1 \;\mbox{T}$.  
+C-Mod operates with entirely high-$Z$ metal plasma-facing components, and reaches comparable heat flux to the divertor to that expected for ITER \cite{Loarte2007,Terry2007,LaBombard2011}, making it a uniquely-suited test bed for SOL and divertor experiments in support of ITER\gnote{too much?}.  
+High-performance operation is commonly assisted by boronization treatment of plasma-facing materials -- however, due to the low impurity confinement in I-mode a recent boronization is not critical for these experiments.  
+Alcator C-Mod plasmas are purely RF heated with up to $5.5 \;\mbox{MW}$ of ion-cyclotron heating power.
 
-I-mode operation is most attainable in the so-called ``unfavorable'' drift configuration -- that is, with the ion $\nabla B$ drift directed away from the primary X-point \cite{Whyte2010}.  This elevates the H-mode power threshold \cite{Hubbard2007}, widening the power range between L- and H-mode available for I-mode operation.  This drift configuration both in upper-single-null (USN) shapes, and in the more typical lower-single-null (LSN) shapes with the toroidal field reversed (plasma current direction is reversed as well to preserve field helicity)\gnote{clarify?}.  Brief I-mode periods have also been observed in the favorable drift configuration, but these transitioned quickly to H-mode and are not considered for the purposes of this paper.
+I-mode operation is most attainable in the so-called ``unfavorable'' drift configuration -- that is, with the ion $\nabla B$ drift directed away from the primary X-point \cite{Whyte2010}.  
+This elevates the H-mode power threshold \cite{Hubbard2007}, widening the power range between L- and H-mode available for I-mode operation.  
+This drift configuration both in upper-single-null (USN) shapes, and in the more typical lower-single-null (LSN) shapes with the toroidal field reversed (plasma current direction is reversed as well to preserve field helicity)\gnote{clarify?}.  
+Brief I-mode periods have also been observed in the favorable drift configuration, but these transitioned quickly to H-mode and are not considered for the purposes of this paper.
 
-Provided the unfavorable drift condition is met, I-mode operation is quite robustly accessible on Alcator C-mod, with steady I-modes attained in a number of shapes and edge current profiles -- notably, I-mode operates naturally near the values for edge safety factor and collisionality targeted for ITER.  The data presented here were taken in dedicated I-mode experiments focusing on reversed-field LSN operation to optimize the plasma for pedestal and edge diagnostic coverage and high-quality pedestal profiles for modeling purposes.  In a subset of these experiments, small, intermittent ELMs were observed -- while the conditions leading to these events are not well-understood, they are particularly found in operation at reduced field ($B_T \sim 4.6 \;\mbox{T}$).  These results are the focus of this paper, with broader results from the pedestal study reported in \cite{Walk2014}.
+Provided the unfavorable drift condition is met, I-mode operation is quite robustly accessible on Alcator C-mod, with steady I-modes attained in a number of shapes and edge current profiles -- notably, I-mode operates naturally near the values for edge safety factor and collisionality targeted for ITER.  
+The data presented here were taken in dedicated I-mode experiments focusing on reversed-field LSN operation to optimize the plasma for pedestal and edge diagnostic coverage and high-quality pedestal profiles for modeling purposes.  
+In a subset of these experiments, small, intermittent ELMs were observed -- while the conditions leading to these events are not well-understood, they are particularly found in operation at reduced field ($B_T \sim 4.6 \;\mbox{T}$).  
+These results are the focus of this paper, with broader results from the pedestal study reported by Walk \emph{et al.} \cite{Walk2014}.\gnote{get formatting right}
 
 \section{I-Mode Pedestal Stability}\label{sec:model}
+
+\begin{figure}[ht]
+ \includegraphics[width=\textwidth]{pdfgraphics/1120824019_ELITE_stitch_v2.pdf}
+ \caption{MHD stability contour for high-current ($1.3 \;\mbox{MA}$), high-performance I-mode generated by the ELITE code.  The experimental measurement (with uncertainties) is shown by the crosshair, with the stability boundary (accounting for diamagnetic stabilization of the MHD mode) shown by the yellow dashed line.  Experimentally-measured parameters for the modeled phase are shown at right.  The white contours indicate calculations of the infinite-$n$ ballooning stability calculated by BALOO, used as a surrogate for the onset of KBM turbulence.  Due to the local nature of the infinite-n constraint, BALOO calculates the width in flux space that is locally ballooning-critical.  When this reaches half of the pedestal width, the KBM is assumed to be triggered. This case is near the KBM-predicted pedestal width $\Delta_{EPED}$, but is nevertheless modeled to be KBM-stable (for $\Delta_\psi \sim 0.02$, the half-width threshold is the white dotted contour labeled $0.01$.}
+ \label{fig:elite_1120824019}
+\end{figure}
+
+\begin{figure}[ht]
+ \includegraphics[width=0.75\textwidth]{pdfgraphics/prof_elmy_imode.pdf}
+ \caption{Pedestal profiles in I-mode and ELMy H-mode. Due to the steep density gradient in the pedestal, the H-mode exhibits significant pressure gradient and edge current density, which drive the peeling-ballooning MHD instability associated with the ELM trigger. Despite this, the high edge temperature in I-mode allows it to reach an appreciable pedestal pressure.}
+ \label{fig:prof_elmy_imode}
+\end{figure}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
