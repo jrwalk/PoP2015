@@ -107,7 +107,12 @@ These results are the focus of this paper, with broader results from the pedesta
 
 \section{I-Mode Pedestal Stability \& the EPED Model}\label{sec:model}
 
-Large, uncontrolled ELMs in ITER operation are expected to drive unacceptable levels of pulsed heat loading and erosion damage to wall and divertor surfaces \cite{Loarte2003,Federici2003} -- as such, avoiding, mitigating, or suppressing large ELMs is a major focus in research on high-performance regimes.  Confidence in plans for high-performance operation on ITER- and reactor-scale devices without large ELMs requires a predictive, first-principles understanding of the pedestal structure and stability at the ELM limit.  Recent cooperative efforts among theory, modeling, and experiment \cite{Groebner2013} has resulted in such a model, termed EPED (not an acronym) \cite{Snyder2009,Snyder2011}.  The EPED model combines constraints from stability against peeling-ballooning MHD modes driven by the steep gradients in the pedestal
+\subsection{I-mode Pedestal Modeling}\label{subsec:imode_ped_mod}
+
+Large, uncontrolled ELMs in ITER operation are expected to drive unacceptable levels of pulsed heat loading and erosion damage to wall and divertor surfaces \cite{Loarte2003,Federici2003} -- as such, avoiding, mitigating, or suppressing large ELMs is a major focus in research on high-performance regimes.  
+Confidence in plans for high-performance operation on ITER- and reactor-scale devices without large ELMs requires a predictive, first-principles understanding of the pedestal structure and stability at the ELM limit.  
+Recent cooperative efforts among theory, modeling, and experiment \cite{Groebner2013} has resulted in such a model, termed EPED (not an acronym) \cite{Snyder2009,Snyder2011}.  
+The EPED model combines constraints from stability against peeling-ballooning MHD modes driven by the steep gradients in the pedestal \note {blah blah blah describe modeling gist}
 
 \begin{figure}[ht]
  \includegraphics[width=\textwidth]{pdfgraphics/1120824019_ELITE_stitch_v2.pdf}
@@ -115,10 +120,26 @@ Large, uncontrolled ELMs in ITER operation are expected to drive unacceptable le
  \label{fig:elite_1120824019}
 \end{figure}
 
+An ELITE calculation for the I-mode pedestal, with BALOO calculations of the KBM threshold, is shown in Figure~\ref{fig:elite_1120824019}, along with parameters (line-averaged density, core and edge $T_e$, global average pressure, and $H_\alpha$ emission).  
+The I-mode pedestal parameters, indicated with uncertainties by the yellow crosshair, are far from both the peeling and ballooning stability boundaries (indicated by the yellow dashed line).  
+This is consistent with the observed lack of large ELMs in I-mode, even in high-performance cases (both in the normalized sense, with $H_{98} = 1.02$ and $\langle \beta_N \rangle = 1.0$, and absolute terms, with $W_{MHD} = 177 \;\mbox{kJ}$ for the case in Figure~\ref{fig:elite_1120824019}, compared to $W \sim 100-120\;\mbox{kJ}$ for ELMy H-mode and $W \sim 150-190\;\mbox{kJ}$ for EDA H-mode typical on C-Mod).
+
 \begin{figure}[ht]
  \includegraphics[width=0.75\textwidth]{pdfgraphics/prof_elmy_imode.pdf}
  \caption{Pedestal profiles in I-mode and ELMy H-mode. Due to the steep density gradient in the pedestal, the H-mode exhibits significant pressure gradient and edge current density, which drive the peeling-ballooning MHD instability associated with the ELM trigger. Despite this, the high edge temperature in I-mode allows it to reach an appreciable pedestal pressure.}
  \label{fig:prof_elmy_imode}
+\end{figure}
+
+The calculated MHD stability is intuitively understood from the I-mode pedestal profile -- while the I-mode pedestal reaches comparable pressure to H-mode, the pressure is due largely to the strong temperature pedestal, with a relaxed density profile and broader pedestal than H-modes at comparable $\beta_{p,ped}$.  
+This reduces the total pressure gradient (and thus the ballooning MHD drive), as well as the local bootstrap current density (set largely by the density gradient), thus reducing the peeling MHD drive as well.  A comparison of the pedestal profiles, with pressure gradient and edge current density, between I-mode and ELMy H-mode is shown in Figure~\ref{fig:prof_elmy_imode}.  
+\note{move earlier, rework intro paragraph of section to be more general about peeling-ballooning stability, rather than ELITE specifically}
+
+\subsection{Intermittent ELMs in I-Mode}\label{subsec:elms}
+
+\begin{figure}[ht]
+ \includegraphics[width=\textwidth]{pdfgraphics/1120913026_ELITE_stitch_v3.pdf}
+ \caption{Calculated MHD stability and KBM threshold characteristics of a low-field ($4.6\;\mbox{T}$) I-mode exhibiting small, intermittent ELM-like events, with experimental traces of the modeled phase at right.  Despite exhibiting ELM characteristics in the $H_\alpha$ trace, apparently triggered by the sawtooth heat pulse reaching the edge (visible on the edge ECE $T_e$ trace), the pedestal is modeled to be stable against the ELM trigger.}
+ \label{fig:elite_1120913026}
 \end{figure}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
