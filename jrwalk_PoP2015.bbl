@@ -6,7 +6,7 @@
 %Control: page (0) single
 %Control: year (1) truncated
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{31}%
+\begin{thebibliography}{34}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -899,4 +899,118 @@
   {\bibinfo  {journal} {Physics of Plasmas}\ }\textbf {\bibinfo {volume}
   {14}},\ \bibinfo {eid} {056109} (\bibinfo {year} {2007})}\BibitemShut
   {NoStop}%
+\bibitem [{\citenamefont {Groebner}\ \emph {et~al.}(2013)\citenamefont
+  {Groebner}, \citenamefont {Chang}, \citenamefont {Hughes}, \citenamefont
+  {Maingi}, \citenamefont {Snyder}, \citenamefont {Xu}, \citenamefont {Boedo},
+  \citenamefont {Boyle}, \citenamefont {Callen}, \citenamefont {Canik},
+  \citenamefont {Cziegler}, \citenamefont {Davis}, \citenamefont {Diallo},
+  \citenamefont {Diamond}, \citenamefont {Elder}, \citenamefont {Eldon},
+  \citenamefont {Ernst}, \citenamefont {Fulton}, \citenamefont {Landreman},
+  \citenamefont {Leonard}, \citenamefont {Lore}, \citenamefont {Osborne},
+  \citenamefont {Pankin}, \citenamefont {Parker}, \citenamefont {Rhodes},
+  \citenamefont {Smith}, \citenamefont {Sontag}, \citenamefont {Stacey},
+  \citenamefont {Walk}, \citenamefont {Wan}, \citenamefont {Wang},
+  \citenamefont {Watkins}, \citenamefont {White}, \citenamefont {Whyte},
+  \citenamefont {Yan}, \citenamefont {Belli}, \citenamefont {Bray},
+  \citenamefont {Candy}, \citenamefont {Churchill}, \citenamefont {Deterly},
+  \citenamefont {Doyle}, \citenamefont {Fenstermacher}, \citenamefont
+  {Ferraro}, \citenamefont {Hubbard}, \citenamefont {Joseph}, \citenamefont
+  {Kinsey}, \citenamefont {LaBombard}, \citenamefont {Lasnier}, \citenamefont
+  {Lin}, \citenamefont {Lipschultz}, \citenamefont {Liu}, \citenamefont {Ma},
+  \citenamefont {McKee}, \citenamefont {Ponce}, \citenamefont {Rost},
+  \citenamefont {Schmitz}, \citenamefont {Staebler}, \citenamefont {Sugiyama},
+  \citenamefont {Terry}, \citenamefont {Umansky}, \citenamefont {Waltz},
+  \citenamefont {Wolfe}, \citenamefont {Zeng},\ and\ \citenamefont
+  {Zweben}}]{Groebner2013}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {R.~J.}\ \bibnamefont
+  {Groebner}}, \bibinfo {author} {\bibfnamefont {C.~S.}\ \bibnamefont {Chang}},
+  \bibinfo {author} {\bibfnamefont {J.~W.}\ \bibnamefont {Hughes}}, \bibinfo
+  {author} {\bibfnamefont {R.}~\bibnamefont {Maingi}}, \bibinfo {author}
+  {\bibfnamefont {P.~B.}\ \bibnamefont {Snyder}}, \bibinfo {author}
+  {\bibfnamefont {X.~Q.}\ \bibnamefont {Xu}}, \bibinfo {author} {\bibfnamefont
+  {J.~A.}\ \bibnamefont {Boedo}}, \bibinfo {author} {\bibfnamefont {D.~P.}\
+  \bibnamefont {Boyle}}, \bibinfo {author} {\bibfnamefont {J.~D.}\ \bibnamefont
+  {Callen}}, \bibinfo {author} {\bibfnamefont {J.~M.}\ \bibnamefont {Canik}},
+  \bibinfo {author} {\bibfnamefont {I.}~\bibnamefont {Cziegler}}, \bibinfo
+  {author} {\bibfnamefont {E.~M.}\ \bibnamefont {Davis}}, \bibinfo {author}
+  {\bibfnamefont {A.}~\bibnamefont {Diallo}}, \bibinfo {author} {\bibfnamefont
+  {P.~H.}\ \bibnamefont {Diamond}}, \bibinfo {author} {\bibfnamefont {J.~D.}\
+  \bibnamefont {Elder}}, \bibinfo {author} {\bibfnamefont {D.~P.}\ \bibnamefont
+  {Eldon}}, \bibinfo {author} {\bibfnamefont {D.~R.}\ \bibnamefont {Ernst}},
+  \bibinfo {author} {\bibfnamefont {D.~P.}\ \bibnamefont {Fulton}}, \bibinfo
+  {author} {\bibfnamefont {M.}~\bibnamefont {Landreman}}, \bibinfo {author}
+  {\bibfnamefont {A.~W.}\ \bibnamefont {Leonard}}, \bibinfo {author}
+  {\bibfnamefont {J.~D.}\ \bibnamefont {Lore}}, \bibinfo {author}
+  {\bibfnamefont {T.~H.}\ \bibnamefont {Osborne}}, \bibinfo {author}
+  {\bibfnamefont {A.~Y.}\ \bibnamefont {Pankin}}, \bibinfo {author}
+  {\bibfnamefont {S.~E.}\ \bibnamefont {Parker}}, \bibinfo {author}
+  {\bibfnamefont {T.~L.}\ \bibnamefont {Rhodes}}, \bibinfo {author}
+  {\bibfnamefont {S.~P.}\ \bibnamefont {Smith}}, \bibinfo {author}
+  {\bibfnamefont {A.~C.}\ \bibnamefont {Sontag}}, \bibinfo {author}
+  {\bibfnamefont {W.~M.}\ \bibnamefont {Stacey}}, \bibinfo {author}
+  {\bibfnamefont {J.~R.}\ \bibnamefont {Walk}}, \bibinfo {author}
+  {\bibfnamefont {W.}~\bibnamefont {Wan}}, \bibinfo {author} {\bibfnamefont
+  {E.~H.-J.}\ \bibnamefont {Wang}}, \bibinfo {author} {\bibfnamefont {J.~G.}\
+  \bibnamefont {Watkins}}, \bibinfo {author} {\bibfnamefont {A.~E.}\
+  \bibnamefont {White}}, \bibinfo {author} {\bibfnamefont {D.~G.}\ \bibnamefont
+  {Whyte}}, \bibinfo {author} {\bibfnamefont {Z.}~\bibnamefont {Yan}}, \bibinfo
+  {author} {\bibfnamefont {E.~A.}\ \bibnamefont {Belli}}, \bibinfo {author}
+  {\bibfnamefont {B.~D.}\ \bibnamefont {Bray}}, \bibinfo {author}
+  {\bibfnamefont {J.}~\bibnamefont {Candy}}, \bibinfo {author} {\bibfnamefont
+  {R.~M.}\ \bibnamefont {Churchill}}, \bibinfo {author} {\bibfnamefont {T.~M.}\
+  \bibnamefont {Deterly}}, \bibinfo {author} {\bibfnamefont {E.~J.}\
+  \bibnamefont {Doyle}}, \bibinfo {author} {\bibfnamefont {M.~E.}\ \bibnamefont
+  {Fenstermacher}}, \bibinfo {author} {\bibfnamefont {N.~M.}\ \bibnamefont
+  {Ferraro}}, \bibinfo {author} {\bibfnamefont {A.~E.}\ \bibnamefont
+  {Hubbard}}, \bibinfo {author} {\bibfnamefont {I.}~\bibnamefont {Joseph}},
+  \bibinfo {author} {\bibfnamefont {J.~E.}\ \bibnamefont {Kinsey}}, \bibinfo
+  {author} {\bibfnamefont {B.}~\bibnamefont {LaBombard}}, \bibinfo {author}
+  {\bibfnamefont {C.~J.}\ \bibnamefont {Lasnier}}, \bibinfo {author}
+  {\bibfnamefont {Z.}~\bibnamefont {Lin}}, \bibinfo {author} {\bibfnamefont
+  {B.~L.}\ \bibnamefont {Lipschultz}}, \bibinfo {author} {\bibfnamefont
+  {C.}~\bibnamefont {Liu}}, \bibinfo {author} {\bibfnamefont {Y.}~\bibnamefont
+  {Ma}}, \bibinfo {author} {\bibfnamefont {G.~R.}\ \bibnamefont {McKee}},
+  \bibinfo {author} {\bibfnamefont {D.~M.}\ \bibnamefont {Ponce}}, \bibinfo
+  {author} {\bibfnamefont {J.~C.}\ \bibnamefont {Rost}}, \bibinfo {author}
+  {\bibfnamefont {L.}~\bibnamefont {Schmitz}}, \bibinfo {author} {\bibfnamefont
+  {G.~M.}\ \bibnamefont {Staebler}}, \bibinfo {author} {\bibfnamefont {L.~E.}\
+  \bibnamefont {Sugiyama}}, \bibinfo {author} {\bibfnamefont {J.~L.}\
+  \bibnamefont {Terry}}, \bibinfo {author} {\bibfnamefont {M.~V.}\ \bibnamefont
+  {Umansky}}, \bibinfo {author} {\bibfnamefont {R.~E.}\ \bibnamefont {Waltz}},
+  \bibinfo {author} {\bibfnamefont {S.~M.}\ \bibnamefont {Wolfe}}, \bibinfo
+  {author} {\bibfnamefont {L.}~\bibnamefont {Zeng}}, \ and\ \bibinfo {author}
+  {\bibfnamefont {S.~J.}\ \bibnamefont {Zweben}},\ }\href
+  {http://stacks.iop.org/0029-5515/53/i=9/a=093024} {\bibfield  {journal}
+  {\bibinfo  {journal} {Nuclear Fusion}\ }\textbf {\bibinfo {volume} {53}},\
+  \bibinfo {pages} {093024} (\bibinfo {year} {2013})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Snyder}\ \emph {et~al.}(2009)\citenamefont {Snyder},
+  \citenamefont {Groebner}, \citenamefont {Leonard}, \citenamefont {Osborne},\
+  and\ \citenamefont {Wilson}}]{Snyder2009}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {P.~B.}\ \bibnamefont
+  {Snyder}}, \bibinfo {author} {\bibfnamefont {R.~J.}\ \bibnamefont
+  {Groebner}}, \bibinfo {author} {\bibfnamefont {A.~W.}\ \bibnamefont
+  {Leonard}}, \bibinfo {author} {\bibfnamefont {T.~H.}\ \bibnamefont
+  {Osborne}}, \ and\ \bibinfo {author} {\bibfnamefont {H.~R.}\ \bibnamefont
+  {Wilson}},\ }\href {\doibase 10.1063/1.3122146} {\bibfield  {journal}
+  {\bibinfo  {journal} {Physics of Plasmas}\ }\textbf {\bibinfo {volume}
+  {16}},\ \bibinfo {eid} {056118} (\bibinfo {year} {2009})}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Snyder}\ \emph {et~al.}(2011)\citenamefont {Snyder},
+  \citenamefont {Groebner}, \citenamefont {Hughes}, \citenamefont {Osborne},
+  \citenamefont {Beurskens}, \citenamefont {Leonard}, \citenamefont {Wilson},\
+  and\ \citenamefont {Xu}}]{Snyder2011}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {P.~B.}\ \bibnamefont
+  {Snyder}}, \bibinfo {author} {\bibfnamefont {R.~J.}\ \bibnamefont
+  {Groebner}}, \bibinfo {author} {\bibfnamefont {J.~W.}\ \bibnamefont
+  {Hughes}}, \bibinfo {author} {\bibfnamefont {T.~H.}\ \bibnamefont {Osborne}},
+  \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Beurskens}}, \bibinfo
+  {author} {\bibfnamefont {A.~W.}\ \bibnamefont {Leonard}}, \bibinfo {author}
+  {\bibfnamefont {H.~R.}\ \bibnamefont {Wilson}}, \ and\ \bibinfo {author}
+  {\bibfnamefont {X.~Q.}\ \bibnamefont {Xu}},\ }\href
+  {http://stacks.iop.org/0029-5515/51/i=10/a=103016} {\bibfield  {journal}
+  {\bibinfo  {journal} {Nuclear Fusion}\ }\textbf {\bibinfo {volume} {51}},\
+  \bibinfo {pages} {103016} (\bibinfo {year} {2011})}\BibitemShut {NoStop}%
 \end{thebibliography}%
