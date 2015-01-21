@@ -85,7 +85,7 @@ I-mode is notably unique among high-performance regimes in that it apparently de
 This manifests in the edge by the formation of a strong temperature pedestal without the accompanying density pedestal found in conventional H-modes (see Figure~\ref{fig:imode_trace}).  
 I-mode also exhibits minimal degradation of energy confinement with heating power \cite{Whyte2010,Dominguez2012,Walk2014b}, in contrast to the degradation of confinement found in ELMy H-mode (roughly $\tau_E \sim P^{-0.7}$ from multi-machine analyses \cite{Christiansen1992,ITER1999}), a potentially highly favorable result for a reactor regime.
 
-The I-mode appears to generally lack large ELMs, obviating the need for externally-applied engineering solutions; however, as has been previously reported \cite{Whyte2010,Walk2014b}\note{check citations!}, under certain conditions (particularly at reduced toroidal field) small, intermittent ELMs have been observed.
+The I-mode appears to generally lack large ELMs, obviating the need for externally-applied engineering solutions; however, as has been previously reported \cite{Whyte2010,Walk2014,Walk2014b}, under certain conditions (particularly at reduced toroidal field) small, intermittent ELMs have been observed.
 In this paper, we examine these intermittent events through computational modeling of the instabilities associated with the ELM trigger and experimental observations of edge behavior in I-mode.  \note{sort out outline}
 
 \section{I-Mode Access \& Experimental Setup}\label{sec:setup}
@@ -105,14 +105,16 @@ The data presented here were taken in dedicated I-mode experiments focusing on r
 In a subset of these experiments, small, intermittent ELMs were observed -- while the conditions leading to these events are not well-understood, they are particularly found in operation at reduced field ($B_T \sim 4.6 \;\mbox{T}$).  
 These results are the focus of this paper, with broader results from the pedestal study reported by Walk \emph{et al.} \cite{Walk2014}.\gnote{get formatting right}
 
-\section{I-Mode Pedestal Stability \& the EPED Model}\label{sec:model}
+\section{I-Mode Pedestal Stability \& Modeling}\label{sec:model}
 
-\subsection{I-mode Pedestal Modeling}\label{subsec:imode_ped_mod}
+\subsection{Pedestal Modeling}\label{subsec:ped_mod}
 
 Large, uncontrolled ELMs in ITER operation are expected to drive unacceptable levels of pulsed heat loading and erosion damage to wall and divertor surfaces \cite{Loarte2003,Federici2003} -- as such, avoiding, mitigating, or suppressing large ELMs is a major focus in research on high-performance regimes.  
 Confidence in plans for high-performance operation on ITER- and reactor-scale devices without large ELMs requires a predictive, first-principles understanding of the pedestal structure and stability at the ELM limit.  
 Recent cooperative efforts among theory, modeling, and experiment \cite{Groebner2013} has resulted in such a model, termed EPED (not an acronym) \cite{Snyder2009,Snyder2011}.  
 The EPED model combines constraints from stability against peeling-ballooning MHD modes driven by the steep gradients in the pedestal \note {blah blah blah describe modeling gist}
+
+\subsection{I-Mode Stability}\label{subsec:imode_mod}
 
 \begin{figure}[ht]
  \includegraphics[width=\textwidth]{pdfgraphics/1120824019_ELITE_stitch_v2.pdf}
@@ -148,19 +150,28 @@ Moreover, I-mode cases exhibiting these events are modeled to be strongly stable
 \end{figure}
 
 I-modes featuring these events comprise a minority of the studied cases -- out of the high-resolution pedestal database of 72 time windows (52 unique shots), 12 time windows (10 unique shots) exhibited the characteristic $H_\alpha$ spikes.
-To better characterize these events, we consider the 
+To better characterize these events, we consider the basic requirements of an ELM observation: the explosive perturbation is characterized by (1) a spike in $H_\alpha$ light associated with the burst in edge ionization, (2) a driving instability in the pedestal, (3) a crash in the pedestal temperature and pressure and associated spike in heat flux to the divertor.  
+Identification of ELMs in I-mode is based on the observation of $H_\alpha$ spikes -- we now consider the other observations \note{reword}
 
 \section{Sawtooth-Triggered Events}\label{sec:sawtooth}
 
-\begin{figure}[p]
+The stationary pedestal profile in I-mode is seen to be stable against the peeling-ballooning MHD instability, as well as the limiting kinetic-ballooning turbulence, traditionally associated with the ELM trigger, even in cases with apparent ELM events.
+However, I-modes on C-Mod typically present substantial sawtooth activity \note{cite? Hubbard, Whyte?}, which drives a regular heat pulse to the edge of the plasma.
+In the majority \note{check number} of I-mode cases featuring observed ELMs, the ELM events are synchronized with the sawtooth heat pulse reaching the edge based on timing from fast ECE $T_e$ measurements in the pedestal, suggesting a trigger.
+The impact of this heat pulse on the pedestal structure is shown in Figure~\ref{fig:prof_stbin}: while the heat pulse drives negligible perturbation to the density profile, it does significantly modify the edge temperature profile (data masked to the first 25\% of the sawtooth cycle are shown in red).
+
+\begin{figure}[htp]
  \includegraphics[width=\textwidth]{pdfgraphics/1120830028_prof_stbin.pdf}
- \caption{}
+ \caption{Sawtooth perturbation to the pedestal in I-mode, generated by masking profile data to the first 25\% of the sawtooth cycle.  The sawtooth heat pulse drives negligible perturbation to the density profile, but supplies a significant transient increase to the pedestal temperature.}
  \label{fig:prof_stbin}
 \end{figure}
 
-\begin{figure}[p]
+Calculations in ELITE and BALOO are shown in Figure~\ref{fig:1120830028_stbin_elite}.
+
+
+\begin{figure}[htp]
  \includegraphics[width=\textwidth]{pdfgraphics/1120830028_stbin_elite.pdf}
- \caption{}
+ \caption{Peeling-ballooning MHD stability calculated by ELITE and KBM thresholds calculated by BALOO for an I-mode case, comparing the time-averaged data against pedestal profiles prepared with data masked to the first 25\% of the sawtooth cycle following a heat pulse reaching the edge.  Note that, to directly compare two separately-calculated equilibria, we replace the $\alpha_{MHD}$ and $j_\parallel$ axes with stability metrics arising from peeling and ballooning MHD.  While the sawtooth heat pulse does measurably perturb the pedestal in stability space, it is insufficient to reach either the peeling-ballooning or KBM threshold.}
  \label{fig:1120830028_stbin_elite}
 \end{figure}
 
